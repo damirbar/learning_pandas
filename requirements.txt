@@ -1,0 +1,5 @@
+pandas
+matplotlib
+lxml
+html5lib
+bs4
